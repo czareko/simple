@@ -31,12 +31,12 @@
     <repository>
       <id>simple-releases</id>
       <name>Releases</name>
-      <url>https://localhost/content/repositories/releases</url>
+      <url>http://localhost/content/repositories/releases</url>
     </repository>
     <snapshotRepository>
       <id>simple-snapshots</id>
       <name>Snapshots</name>
-      <url>https://localhost/content/repositories/snapshots</url>
+      <url>http://localhost/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
