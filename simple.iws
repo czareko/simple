@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ce127d8-dd78-4e06-bfa2-3bb558444df0" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\github\simple\release.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\simple\simple.ipr" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\simple\target\maven-archiver\pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\simple\target\simple.war" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\simple\target\simple\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\simple\target\simple\index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/simple.war" afterPath="$PROJECT_DIR$/target/simple.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple.iws" afterPath="$PROJECT_DIR$/simple.iws" />
     </list>
     <ignored path="simple.iws" />
@@ -195,8 +191,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.514574" vertical-offset="0" max-vertical-offset="892">
-              <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.50284415" vertical-offset="0" max-vertical-offset="879">
+              <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -425,12 +421,12 @@
       <created>1436992353361</created>
       <option name="number" value="Default" />
       <updated>1436992353361</updated>
-      <workItem from="1436992354203" duration="964000" />
+      <workItem from="1436992354203" duration="1560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="964000" />
+    <option name="totallyTimeSpent" value="1560000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -557,8 +553,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.514574" vertical-offset="0" max-vertical-offset="892">
-          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.50284415" vertical-offset="0" max-vertical-offset="879">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
           <folding />
         </state>
       </provider>
